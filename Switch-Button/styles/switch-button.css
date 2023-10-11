@@ -1,0 +1,22 @@
+.OnOff{
+  border: none;
+  background-color: black;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-weight: bold;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.is-off{
+  background-color: rgb(240,240,240);
+  color: black;
+}
+
+.lightblub
+{
+  height: 100px;
+}
